@@ -22,7 +22,7 @@ mastery=function(sys){
 };
 
 header=function(){
-  return '<header class="top"><div class="brand"><h1>HY Journey</h1><p>STEP 1 · HIGH-YIELD MICROlearning</p></div>'+
+  return '<header class="top"><div class="brand"><h1>HY Journey</h1><p>STEP 1 · HIGH-YIELD MICROLEARNING</p></div>'+
     '<div class="stats"><span class="chip">🔥 '+(state.streak||0)+'</span><span class="chip">★ '+(state.xp||0)+'</span></div></header>';
 };
 
